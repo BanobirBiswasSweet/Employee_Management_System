@@ -1,0 +1,4 @@
+db name = "id3306949_employee"
+db username = "id3306949_project"
+db password = "123456"
+host = "localhost"
